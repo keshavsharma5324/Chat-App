@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263667765867",
+    "firebase_url": "https://lwchatapp-d22e4.firebaseio.com",
+    "project_id": "lwchatapp-d22e4",
+    "storage_bucket": "lwchatapp-d22e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263667765867:android:38666042a8f17c5217572e",
+        "android_client_info": {
+          "package_name": "com.keshav.lwChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263667765867-bcad893rl6ofos22kqm824t2fibka34j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0lbyktDNkrE1f3LCxX0ktWI0jw8ajBQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263667765867-bcad893rl6ofos22kqm824t2fibka34j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
